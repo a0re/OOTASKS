@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookie", "Cookie\Cookie.csproj", "{AEBC50BD-A088-4531-933D-C8F1C21F22C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOTASK", "OOTASK\OOTASK.csproj", "{6A3402F5-E56B-4883-BD54-36C7DDF0252F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBC50BD-A088-4531-933D-C8F1C21F22C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBC50BD-A088-4531-933D-C8F1C21F22C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBC50BD-A088-4531-933D-C8F1C21F22C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBC50BD-A088-4531-933D-C8F1C21F22C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3402F5-E56B-4883-BD54-36C7DDF0252F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3402F5-E56B-4883-BD54-36C7DDF0252F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3402F5-E56B-4883-BD54-36C7DDF0252F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3402F5-E56B-4883-BD54-36C7DDF0252F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14CF00E-C6F2-45E5-8FB5-C1F916E7C01F}
+	EndGlobalSection
+EndGlobal
